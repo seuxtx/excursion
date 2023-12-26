@@ -22,3 +22,11 @@ body{
     font-size: 21px;
     color: gray;
 }
+
+/* Footer*/
+
+.footer{
+    font-size: 21px;
+    color: gray;
+    text-align: right;
+}
